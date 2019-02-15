@@ -1,12 +1,2 @@
-Ê¹ÓÃÔÄ¶Á£º
-
-+++++++++++++++ ½â°ü´ò°ü++++++++++++
-1.½«system.img»òÕßuserdata.img·ÖÇø¾µÏñ·ÅÈëimages_tempÄ¿Â¼
-2.Ö´ÐÐStart.bat£¬Ñ¡Ôñ¡°1. ½â°üImg¡±£¬½â°üºóÎÄ¼þ½«»á½âÑ¹µ½images_tempÄ¿Â¼
-3.ÐÞ¸ÄÏµÍ³¾µÏñ
-4.Ñ¡Ôñ 2. Img´ò°ü£¬½«»áÖØÐÂÉú³ÉÒ»¸öÐÂµÄ¾µÏñÎÄ¼þµ½images_outÄ¿Â¼
-5.Ìæ»»µ½Ë¢»ú°üÀï½øÐÐË¢»ú
-
-
-+++++++++++++++¹ØÓÚÎÒÃÇ++++++++++++
-Õ¬¿Æ¼¼-¼«¿ÍÂÛÌ³bbs.zecoki.com£¬ÓÐ¼ÛÖµµÄ¼¼Êõ×ÊÁÏºÍ½â¾ö·½°¸×ÛºÏROM¿ª·¢¼¼Êõ·ÖÏíÂÛÌ³
++++++++++++++++å…³äºŽæˆ‘ä»¬++++++++++++
+å®…ç§‘æŠ€-æžå®¢è®ºå›bbs.zecoki.comï¼Œæœ‰ä»·å€¼çš„æŠ€æœ¯èµ„æ–™å’Œè§£å†³æ–¹æ¡ˆç»¼åˆROMå¼€å‘æŠ€æœ¯åˆ†äº«è®ºå›
